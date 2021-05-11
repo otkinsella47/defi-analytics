@@ -1,0 +1,5 @@
+*.csv
+venv
+.ipynb_checkpoints
+*.png
+*.xlsx
