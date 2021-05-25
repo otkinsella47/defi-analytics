@@ -8,6 +8,7 @@ jupyter = "*"
 notebook = "*"
 gql = {extras = ["all"], version = "*"}
 pandas = "*"
+matplotlib = "*"
 
 [dev-packages]
 
